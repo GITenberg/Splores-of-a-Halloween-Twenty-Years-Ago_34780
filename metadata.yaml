@@ -1,0 +1,24 @@
+_repo: Splores-of-a-Halloween-Twenty-Years-Ago_34780
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dick, Alexander
+    gutenberg_agent_id: '37221'
+    url: http://www.gutenberg.org/2009/agents/37221
+description: ''
+gutenberg_issued: '2010-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34780'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Halloween -- Poetry'
+title: Splores of a Halloween, Twenty Years Ago
+url: http://www.gutenberg.org/ebooks/34780
